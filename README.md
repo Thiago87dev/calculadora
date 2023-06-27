@@ -23,6 +23,7 @@
 ![screenshot](./assets/img/calculator.png)
 
 ## ✒️ Autor
+# Thiago Alves
 
 - Linkedin - [Thiago Alves](https://www.linkedin.com/in/thiago-alves-010915274/)
 - GitHub - [Thiago87dev](https://github.com/Thiago87dev)
