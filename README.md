@@ -1,6 +1,6 @@
 # 🖩 Calculadora 
 ---
-### Funcionalidades
+### :bulb: Funcionalidades
 
 * Todas as funcionalidades de uma calculadora comum
 
